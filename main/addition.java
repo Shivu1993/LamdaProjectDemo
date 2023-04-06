@@ -25,4 +25,10 @@ public class addition {
         int sum = a+b;
 
     }
+
+    public void test4(){
+        int a = 1, b=2;
+        int sum = a+b;
+
+    }
 }
