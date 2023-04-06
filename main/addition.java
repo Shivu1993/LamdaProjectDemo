@@ -19,10 +19,5 @@ public class addition {
         int sum = a+b;
 
     }
-
-    public void test3(){
-        int a = 1, b=2;
-        int sum = a+b;
-
-    }
+    
 }
